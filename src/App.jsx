@@ -36,7 +36,7 @@ function App() {
         >
           Add Todo
         </button>
-      </div>{" "}
+      </div>
       <br />
       <div className="flex flex-col items-center m-auto w-[80vw] sm:w-120 justify-center">
         {todos.map((todo, index) => {
